@@ -11,17 +11,17 @@ Markdown is a way to format documentation on the web on an easy and collaborativ
   - markdown is rendered and display on the most variety of web platforms as GitHub and don't need more than a basic text editor for be written
 
 - How to use Markdown to format test
-  - You can use the standard symbols defined for markdown to format your heathers, bold, italic, lists, etc ... as the examples below 
+  - You can use the standard symbols defined for markdown to format your heathers, bold, italic, lists, etc ... as the examples below
 
 - How to leverage GitHub's automatic Markdown rendering
-  - Git hub already have two build in  markdown formats **.md** and **.markdown** and will render automatic those extensions what are large used to create README's and other documents
+  - Git hub already have two build in  markdown formats **.md** and **.markdown** and will render automatic those extensions what are large used to create README's and other documents, example: README.md
 
 - How to apply GitHub's unique Markdown extensions
   - create a file with the extension you pretend, as the most evident example you can see the mandatory README which file is README.md, you can also use it on the comments and Pull Requests or create Gists documents
 
-# Examples
+## Examples
 
-## TEXT
+### TEXT
 
 ```markdown
 It's very easy to make some words **bold** and other words *italic* with
@@ -35,7 +35,7 @@ Markdown. You can even [link to Google!](http://google.com)
 
 ____
 
-## LISTS
+### LISTS
 
 **- Unsorted**
 
@@ -55,10 +55,10 @@ ____
 
 ```markdown
 1. Item 1
-1. Item 2
-1. Item 3
+2. Item 2
+3. Item 3
    1. Item 3a
-   1. Item 3b
+   2. Item 3b
 ```
 
 **- Alternatively**
@@ -89,7 +89,7 @@ ____
 - [ ] this is an incomplete item
 ____
 
-## IMAGES
+### IMAGES
 
 ``` markdown
 ![image](GitHub.png) # from the root directory
@@ -100,26 +100,26 @@ ____
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ____
 
-## HEATHERS
+### HEATHERS
 
 headers start line  `#` for the biggest heather and go trough `########` to the smaller heather  
 
 ```markdown
-second
-## HEADER
-
 third
 ### HEADER
+
+fourth
+#### HEADER
 ```
 
-second
-## HEADER
-
 third
 ### HEADER
+
+fourth
+#### HEADER
 ____
 
-## QUOTES
+### QUOTES
 
 for scape special chars we can use the quotes **`**
 
@@ -133,7 +133,7 @@ or _test_ != `_`test`_`
 
 ____
 
-## CODE
+### CODE
 
 To add block of codes we abb it between   ``` 
 and use the name of the language for syntax highlighting as the example:
@@ -173,7 +173,7 @@ class HelloWorld
 }
 ____
 
-## TABLES
+### TABLES
 
 you can create tables by dividing rows with hyphens `-` and using pipes `|` for columns:
 
@@ -191,8 +191,10 @@ Content in the first column | Content in the second column
 you can also convert a csv on the [website](https://jakebathman.github.io/Markdown-Table-Generator/)
 ____
 
-## SHA REFERENCES
+#### SHA REFERENCES
+
 On Git hub any reference to SHA-1 hash is automatic converted into a link
+
 ```markdown
 16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
@@ -205,7 +207,13 @@ mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 
 ____
 
-## ISSUE REFERENCES WITHIN A REPOSITORY
+### ISSUE REFERENCES WITHIN A REPOSITORY
+Any number referent to an issue or PR will be converted in link 
+
+a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
+Orpere@a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
+/Orpere/markdown@a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
+
 
 ____
 
@@ -213,14 +221,14 @@ ____
 
 ____
 
-## LINKS
+### LINKS
 
 ____
 
-## STRIKETHROUGH
+### STRIKETHROUGH
 
 ____
 
-## EMOJ
+### EMOJ
 
 
