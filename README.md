@@ -201,20 +201,14 @@ mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
 mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
 ```
 
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
-
 ____
 
 ### ISSUE REFERENCES WITHIN A REPOSITORY
 Any number referent to an issue or PR will be converted in link 
 
 #1
-
-Orpere#1
-
-/Orpere/markdown
+mojombo#1
+mojombo/github-flavored-markdown#1
 ____
 
 ## USERNAME @MENTIONS
