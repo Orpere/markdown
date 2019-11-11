@@ -24,10 +24,14 @@ Markdown is a way to format documentation on the web on an easy and collaborativ
 ## TEXT
 
 ```markdown
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* with
+
+ Markdown. You can even [link to Google!](http://google.com)
 ```
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* with 
+
+Markdown. You can even [link to Google!](http://google.com)
 
 ____
 
