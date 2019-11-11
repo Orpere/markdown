@@ -210,12 +210,11 @@ ____
 ### ISSUE REFERENCES WITHIN A REPOSITORY
 Any number referent to an issue or PR will be converted in link 
 
-#a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
+#1
 
-Orpere#a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
+Orpere#1
 
-/Orpere/markdown#a4dd5e34a6691bf6d16bcb458dbcd608f5ec6d32
-
+/Orpere/markdown
 ____
 
 ## USERNAME @MENTIONS
