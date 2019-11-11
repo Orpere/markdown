@@ -212,10 +212,17 @@ mojombo/github-flavored-markdown#1
 ____
 
 ## USERNAME @MENTIONS
-
+For mention a user of yopur team or notify him you should use on your comments an `@` like `@user`
+or use `@team` if you pretend notify a specific team on your organization.
 ____
 
 ### LINKS
+for add a link or url you must add the full link url and the markup will convert the URL format into a link example: htttp://example.com
+If you want to add a link to some text you must follow the syntax:
+
+```markdown
+![text link ](http://example.com) 
+```
 
 ____
 
