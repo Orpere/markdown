@@ -1,6 +1,6 @@
 # what I learn about markdown
 
-This example is based on https://guides.github.com/features/mastering-markdown/ and you can use it as reference to format and style your documents on GitHUB.
+This example is based on https://guides.github.com/features/mastering-markdown/ and we can use it as reference to format and style your documents on GitHUB.
 
 
 Markdown is a way to format documentation on an easy and collaborative way. the one we use on this document is GitHub flavor.
