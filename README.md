@@ -221,7 +221,7 @@ for add a link or url you must add the full link url and the markup will convert
 If you want to add a link to some text you must follow the syntax:
 
 ```markdown
-![text link ](http://example.com)
+[text link ](http://example.com)
 ```
 
 ____
@@ -239,7 +239,7 @@ ____
 
 ### EMOJ
 
-Git hub uses ![emoJs](https://www.webfx.com/tools/emoji-cheat-sheet/)  as bellow:
+Git hub uses [emoJs](https://www.webfx.com/tools/emoji-cheat-sheet/)  as bellow:
 
 ```markdown
 this is a emoJ :scream:
